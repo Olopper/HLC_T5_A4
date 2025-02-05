@@ -4,5 +4,5 @@ def factorial_it(n):
         res *= i
     return res
  
-print(factorial_it)
+print(factorial_it(5))
 factorial_it(5)
